@@ -3,8 +3,6 @@ import os
 import telebot
 from loguru import logger
 
-
-
 telegram_bot_token = os.environ['TELEGRAMBOT_TOKEN']
 
 class Bot():
