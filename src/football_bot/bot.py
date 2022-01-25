@@ -25,3 +25,4 @@ class Bot():
 if __name__ == "__main__":
     obj = Bot()
     obj.run()
+    print("Done!")
